@@ -1,0 +1,12 @@
+.blc{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3% 3% 0 3%;
+    justify-content: space-around;
+}
+
+.border-danger {
+    margin-bottom: 2%;
+    box-shadow:  5px 5px 7px black;
+}

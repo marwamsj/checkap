@@ -1,0 +1,17 @@
+.App {
+  background-color: rgb(73, 71, 71);
+  margin-top: 0;
+}
+.title{
+  background-color: rgb(113 37 37);
+  color:rgb(73, 71, 71) ;
+  text-align: center;
+  width: 250px;
+  height: 60px;
+  margin: 2% 40% 7% 38%;
+  border-radius:  5px ;
+  padding-top: 2px;
+  box-shadow:  5px 5px 7px black;
+}
+
+
